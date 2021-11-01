@@ -1,0 +1,18 @@
+run introduction
+print "Welcome, enter your zip code or city to get the forecasting for the area"
+
+Run function
+while loop
+    input location "city or zip"
+    request openweathermap.org
+    print (location) in openweathermap.org
+    retreive data
+    display data
+    input response "Would you like to have information on another place? yes or no"
+    if "yes"
+        repeat loop
+    ifel "no"
+        exit
+
+run introduction
+run function
